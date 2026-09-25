@@ -1,0 +1,20 @@
+{
+ "analogy-ticket-rail:A": "comparator",
+ "analogy-ticket-rail:B": "baseline",
+ "analogy-ticket-rail:C": "candidate",
+ "causal-chain-timezone:A": "candidate",
+ "causal-chain-timezone:B": "baseline",
+ "causal-chain-timezone:C": "comparator",
+ "hanging-thread-docker:A": "comparator",
+ "hanging-thread-docker:B": "baseline",
+ "hanging-thread-docker:C": "candidate",
+ "no-blame-known-cause:A": "baseline",
+ "no-blame-known-cause:B": "candidate",
+ "no-blame-known-cause:C": "comparator",
+ "second-pass-towel:A": "comparator",
+ "second-pass-towel:B": "baseline",
+ "second-pass-towel:C": "candidate",
+ "towel-serverless-504:A": "baseline",
+ "towel-serverless-504:B": "candidate",
+ "towel-serverless-504:C": "comparator"
+}
