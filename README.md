@@ -17,6 +17,8 @@ Status: proposal, 2026-09-25. Nothing in this repository is installed anywhere y
   first smoke test.
 - `docs/external/adhd-fanout-review.md` reviews an ideation skill considered for a trial
   inside the ideation module.
+- `docs/handoff-2026-09-25.md` records the decisions made so far and what is pending, and
+  `docs/kickoff-prompt.md` starts a working session from it.
 
 ## How the skill is built
 
@@ -110,7 +112,7 @@ yet.
 ## Before publishing
 
 - **Licence.** The skill text started from `i-have-adhd`, MIT, copyright 2026 Ayoub
-  Ghriss, so its notice has to ship with this repository. This repository still needs a
+  Ghriss. Its notice is in `THIRD_PARTY_NOTICES.md`. This repository still needs a
   licence of its own.
 - **Name.** `nd-reading` is a working name.
 - **Credits.** The narrative rules (small bites, the shape of a reply, analogies, closing
