@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "cat \"${CLAUDE_PLUGIN_ROOT}/skills/nd-reading/SKILL.md\""
+            "command": "cat \"${CLAUDE_PLUGIN_ROOT}/skills/nd-reading/SKILL.md\"; echo; cat \"${CLAUDE_PLUGIN_ROOT}/rules/no-blame-reporting.md\""
           }
         ]
       }
