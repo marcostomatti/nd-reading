@@ -1,0 +1,19 @@
+{
+  "name": "nd-reading",
+  "owner": {
+    "name": "Marcos Tomatti",
+    "email": "marcostomatticv@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "nd-reading",
+      "source": "./",
+      "description": "Shape output for neurodivergent readers",
+      "version": "0.1.0",
+      "author": {
+        "name": "Marcos Tomatti",
+        "email": "marcostomatticv@gmail.com"
+      }
+    }
+  ]
+}
